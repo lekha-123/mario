@@ -1,0 +1,45 @@
+.heading
+{
+    width: 100%;
+    text-align: center;
+}
+.heading h2
+{
+    display: inline-block;
+}
+#imagemario
+{
+    width: 100%;
+}
+.heading button
+{
+    float: right;
+    border: 1px solid white;
+    margin-top: 12.5px;
+}
+#startplaying, #status
+{
+    font-size: 22px;
+}
+h4
+{
+    background: #f5f5f5;
+    line-height: 2;
+    margin: 0px;
+}
+.modal-dialog
+{
+    width: 90%;
+}
+.instruction_image
+{
+    display: inline-block;
+    width: 45%;
+}
+video
+{
+    background: url("game_console.png");
+    background-size: cover;
+    background-position: center;
+    padding: 25px;
+}
